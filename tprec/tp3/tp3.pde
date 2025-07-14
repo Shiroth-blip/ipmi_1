@@ -1,6 +1,5 @@
 // Autor: Elias Esquibel
-// Link: https://youtu.be/EZ-70XyXyWw?si=q2-OXkgJK8dWjdK_
-
+// Link: https://youtu.be/GbYXyW9zAcs
 int cols = 40;  // número de columnas
 int rows = 20;  // número de filas
 float circleSize;
